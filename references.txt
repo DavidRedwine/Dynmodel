@@ -1,2 +1,2 @@
 This file is for the Appendices and references to URLS and other documentation that may prove useful the the novice.
-Update
+Updated again for change from https to ssh
