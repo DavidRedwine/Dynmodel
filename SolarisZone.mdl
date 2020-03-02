@@ -1,0 +1,25 @@
+/* SolarisZone.mdl -
+ *
+ * Copyright 2004-2009 by EMC Corporation ("EMC").
+ * All rights reserved.
+ *
+ * UNPUBLISHED CONFIDENTIAL AND PROPRIETARY PROPERTY OF EMC.  The copyright
+ * notice above does not evidence any actual or intended publication of this
+ * software.  Disclosure and dissemination are pursuant to separate
+ * agreements.  Unauthorized use, distribution or dissemination are strictly
+ * prohibited.
+ *
+ * Location: /opt/InCharge9/IP/smarts/local/model/SolarisZone.mdl
+ * Compile: 
+ *  cd /opt/InCharge9/IP/smarts/local/model
+ *  /opt/InCharge9/IP/smarts/bin/dynmodel SolarisZone.mdl
+ * Copy to required directory:
+ *  cp *.dat /opt/InCharge9/IP/smarts/local/l10n
+ */
+
+interface SolarisZone:UnitaryComputerSystem
+"Create a  SolarisZone class inheriting from UCS"
+{
+
+
+}
